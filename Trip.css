@@ -1,0 +1,17 @@
+#Body {
+  font-style: italic;
+  /* The background is not coming */
+  background-image: url("Colour.jpg");
+}
+#Button {
+  margin-top: 20px;
+  color: black;
+  background-color: yellow;
+  width: 150px;
+  height: 30px;
+  font-size: large;
+  font-weight: bold;
+  outline: auto;
+  font-style: italic;
+  text-align: center;
+}
