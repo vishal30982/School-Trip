@@ -1,12 +1,11 @@
 #Body {
   font-style: italic;
-  /* The background is not coming */
-  background-image: url("Colour.jpg");
+  Color: blue;
 }
 #Button {
   margin-top: 20px;
-  color: black;
-  background-color: yellow;
+  color: white;
+  background-color: blue;
   width: 150px;
   height: 30px;
   font-size: large;
